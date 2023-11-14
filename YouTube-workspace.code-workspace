@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.quickSuggestions": {
+      "other": "off"
+    },
+    "workbench.colorTheme": "Ariake Dark",
+    "breadcrumbs.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.statusBar.visible": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'Roboto Mono', 'Courier New', monospace",
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "window.zoomLevel": 4,
+    "editor.fontLigatures": false,
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.parameterHints.enabled": false,
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false
+  }
+}
